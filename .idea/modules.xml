@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.Base/1.Base.iml" filepath="$PROJECT_DIR$/1.Base/1.Base.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.javaBase.iml" filepath="$PROJECT_DIR$/1.javaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Class_and_Object/2.Class_and_Object.iml" filepath="$PROJECT_DIR$/2.Class_and_Object/2.Class_and_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.类/3.类.iml" filepath="$PROJECT_DIR$/3.类/3.类.iml" />
     </modules>
   </component>
 </project>
